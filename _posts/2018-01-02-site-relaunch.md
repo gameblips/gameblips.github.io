@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "GameBlips Site Relaunch"
 date: 2017-01-02
 ---
