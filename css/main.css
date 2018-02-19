@@ -3,6 +3,8 @@ body {
     width: 70%;
     background-image: url("gbbg.png");
     background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 nav ul, footer ul {
