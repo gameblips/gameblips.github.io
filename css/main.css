@@ -1,7 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url("gbbg.png");
+    background-color: #cccccc;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
