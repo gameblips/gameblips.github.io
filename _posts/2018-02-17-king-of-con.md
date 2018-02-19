@@ -8,7 +8,7 @@ tags: review
 
 On Saturday, February 17, a video was released by <a href="https://www.youtube.com/channel/UC5t8u4kpE0WvLxkPWIp8n-g">Apollo Legend</a> outlining the a large amount of evidence and misdirection fluff stemming from the Billy Mitchell camp. Evidence of emulator usage and video editing is rampant. Take a view of the video and judge for yourself. 
 
-{% include youtubePlayer.html id=page.234Y76_3YPE %}
+{% include youtubePlayer.html id=234Y76_3YPE %}
 
 If you watched the original King of Kong documentary, this really puts Billy in a bad position as all of his solid wording puts his arrogance in more of a different light.
 
