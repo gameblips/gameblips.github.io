@@ -20,10 +20,11 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #ffff00;
+    color: #000000;
 }
 a:hover {
     text-decoration: underline;
+    color: #ffff00;
 }
 h1 {
     font-size: 3em;
