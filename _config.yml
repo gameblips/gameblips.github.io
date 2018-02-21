@@ -1,10 +1,4 @@
----
-title: Gb Site
-timezone: America/Chicago
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+theme: jekyll-theme-slate
+name: GameBlips - Insert Coin
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
