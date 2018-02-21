@@ -1,3 +1,19 @@
+a:link {
+    text-decoration: none;
+    color: #000000;
+}
+a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+a:hover {
+    text-decoration: underline;
+    color: #ffff00;
+}
+a:active {
+    text-decoration: bold;
+    color: #ffff00;
+}
 body {
     margin: 60px auto;
     width: 70%;
@@ -17,22 +33,6 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
-a:link {
-    text-decoration: none;
-    color: #000000;
-}
-a:visited {
-    text-decoration: none;
-    color: #000000;
-}
-a:hover {
-    text-decoration: underline;
-    color: #ffff00;
-}
-a:active {
-    text-decoration: bold;
-    color: #ffff00;
 }
 h1 {
     font-size: 3em;
