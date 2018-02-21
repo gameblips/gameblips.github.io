@@ -31,7 +31,7 @@ a:hover {
     color: #ffff00;
 }
 a:active {
-    text-decoration: none;
+    text-decoration: bold;
     color: #ffff00;
 }
 h1 {
