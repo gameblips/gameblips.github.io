@@ -22,8 +22,16 @@ a:link {
     text-decoration: none;
     color: #000000;
 }
+a:visit {
+    text-decoration: none;
+    color: #000000;
+}
 a:hover {
     text-decoration: underline;
+    color: #ffff00;
+}
+a:active {
+    text-decoration: none;
     color: #ffff00;
 }
 h1 {
