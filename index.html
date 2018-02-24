@@ -8,6 +8,8 @@ subtitle: Insert Coin
 	<h2>{{ page.subtitle }}</h2>
 	<ul class="recent">
 		<h2>Most Recent Post</h2>
-		{{ site.posts. }} » <a href="{{site.posts.first.url}}">{{site.posts.first.title}}</a>
+		<a href="{{site.posts.first.url}}">{{site.posts.first.title}}</a>
+		{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+
 	</ul>
 </div><!-- /.blurb -->
