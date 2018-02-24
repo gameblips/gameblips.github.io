@@ -1,4 +1,4 @@
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
 name: GameBlips - Insert Coin
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
